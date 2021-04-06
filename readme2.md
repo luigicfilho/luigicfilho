@@ -1106,3 +1106,27 @@ REMOVE
 <a href="https://azure.microsoft.com/en-gb/">
     <img src="https://raw.githubusercontent.com/luigicfilho/luigicfilho/Resources/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
   </a>
+  
+  
+  <p align="center">
+  <a href="https://twitter.com/luigicfilho">
+    <img src="https://raw.githubusercontent.com/luigicfilho/luigicfilho//Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>  
+
+  <a href="https://www.linkedin.com/in/luigicfilho/">
+    <img src="https://raw.githubusercontent.com/luigicfilho/luigicfilho//Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://www.instagram.com/luigicfilho/">
+    <img src="https://raw.githubusercontent.com/luigicfilho/luigicfilho/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://www.meetup.com/members/luigicfilho/">
+    <img src="https://raw.githubusercontent.com/luigicfilho/luigicfilho/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/meetup.svg" alt="Meetup" style="vertical-align:top; margin:4px">
+  </a>
+
+ <a href="https://www.youtube.com/c/luigicfilho/">
+    <img src="https://raw.githubusercontent.com/luigicfilho/luigicfilho/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
