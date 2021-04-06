@@ -49,7 +49,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=mssql&logoColor=4479A1)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=microsoftsqlserver&logoColor=4479A1)
 
 - ☁️ SVNs
 
