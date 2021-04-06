@@ -1130,3 +1130,9 @@ REMOVE
   </a>
 </p>
 
+
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://shields.io/
+https://simpleicons.org/
