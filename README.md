@@ -20,14 +20,17 @@
 ### 🛠 &nbsp;Tech Stack
 ---
 - 👨🏻‍💻 Programming Languages
-- 
+
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
 
 - ☁️ Cloud
 
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
+
+<img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure" title="Azure" width="10%" />
 
 - ☁️ Front-end
 
@@ -36,7 +39,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-
 
 - ☁️ Back-end
 
@@ -48,48 +50,26 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL&logoColor=4479A1)
 
+- ☁️ SVNs
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+- ☁️ Other Skills
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-
-
 ![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
-
-
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-
-
-
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
-![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
-
-
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-
-
-  
 ---
 ### 📫 &nbsp; How to reach me:
 ---
 
 <a href="https://www.linkedin.com/in/luigicfilho/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />
+
 ---
 <p align="center">
   <a href="https://twitter.com/luigicfilho">
@@ -115,16 +95,6 @@
 
 <hr>
 
-
----
-
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
-<a href="https://azure.microsoft.com/en-gb/">
-    <img src="https://raw.githubusercontent.com/luigicfilho/luigicfilho/Resources/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
-  </a>
-
 ---
 
 ## 🛠️Tech Stack
@@ -139,8 +109,7 @@
     ![C](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;
 - ☁️ Cloud
       
-    <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure"
-    title="Azure" width="10%" />
+
     <img src="https://www.loudounchamber.org/wp-content/uploads/2018/02/aws_logo_smile-NEW.png" alt="AWS"
     title="AWS" width="6%" />
 - 🐘 Big Data Stack
@@ -649,6 +618,9 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
 ---
 
+
+REMOVE
+
 ---
 
 ##
@@ -723,3 +695,39 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+
+
+
+
+
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+
+
+
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+
+
+
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
+
+
+<img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />
+---
+
+
+<a href="https://azure.microsoft.com/en-gb/">
+    <img src="https://raw.githubusercontent.com/luigicfilho/luigicfilho/Resources/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
+  </a>
