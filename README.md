@@ -70,27 +70,6 @@
 <a href="https://www.linkedin.com/in/luigicfilho/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 
 ---
-<p align="center">
-  <a href="https://twitter.com/luigicfilho">
-    <img src="https://raw.githubusercontent.com/luigicfilho/luigicfilho//Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  </a>  
-
-  <a href="https://www.linkedin.com/in/luigicfilho/">
-    <img src="https://raw.githubusercontent.com/luigicfilho/luigicfilho//Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.instagram.com/luigicfilho/">
-    <img src="https://raw.githubusercontent.com/luigicfilho/luigicfilho/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.meetup.com/members/luigicfilho/">
-    <img src="https://raw.githubusercontent.com/luigicfilho/luigicfilho/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/meetup.svg" alt="Meetup" style="vertical-align:top; margin:4px">
-  </a>
-
- <a href="https://www.youtube.com/c/luigicfilho/">
-    <img src="https://raw.githubusercontent.com/luigicfilho/luigicfilho/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
-  </a>
-</p>
 
 <hr>
 
