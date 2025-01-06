@@ -15,53 +15,81 @@
 - 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 - ⚡ Fun fact: Live long and prosper!
 
+## 🛠️ Languages and Tools
 ---
 ### 🛠 &nbsp;Tech Stack
 ---
 - 👨🏻‍💻 Programming Languages
 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C#](https://img.shields.io/badge/C%23-000?&logo=C-Sharp&logoColor=239120)&nbsp;
+<br>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,py" />
+</p>
+
+<hr>
 
 - ☁️ Cloud
+<br>
 
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,heroku" />
+</p>
+
+<hr>
+
 
 - ☁️ Front-end
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass" />
+</p>
+
+<hr>
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 - ☁️ Back-end
+<br>
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,docker,cs,dotnet" />
+</p>
+
+<hr>
 
 - ☁️ DataBases
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![SQL](https://img.shields.io/badge/SQL-000?&logo=Microsoft-SQL-Server&logoColor=CC2927)
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,elasticsearch,redis,sqlite,mysql" />
+</p>
+
+<hr>
 
 - ☁️ SVNs
 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+<hr>
 
 - ☁️ Other Skills
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,raspberrypi,visualstudio,vscode,rabbitmq,arduino" />
+  <img src="https://skillicons.dev/icons?i=kafka,matlab,nginx,opencv,postman,powershell,pytorch" />
+</p>
+
+<hr>
 
 ---
 ### 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/luigicfilho/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
@@ -69,4 +97,7 @@
 ---
 
 <hr>
-
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/luigicfilho/count.svg" alt="Visitor's Count" />
+</div>
