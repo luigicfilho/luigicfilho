@@ -44,12 +44,10 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap" />
 </p>
 
 <hr>
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 - ☁️ Back-end
 <br>
