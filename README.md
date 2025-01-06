@@ -1,14 +1,13 @@
 <h1 align="center"> Hi there, I'm Luigi C. Filho <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="right"/> </h1>
 
 ![version :1](https://img.shields.io/badge/Version-1-blue) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=luigicfilho&color=blue&style=plastic)&nbsp;
 [![GitHub Luigicfilho](https://img.shields.io/github/followers/luigicfilho?label=follow&style=social)](https://github.com/luigicfilho)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ---
 ### <h2 align="center">👨🏻‍💻 &nbsp;About Me </h2>
 ---
-- <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
+- <img width="16" src="https://cdn-icons-png.flaticon.com/128/13482/13482144.png" alt="Brazil" /> I'm from Brazil
 - 💡 I’m currently working on .Net Developement
 - 🎓 &nbsp;I have a degree in electronic engineering on Universidade Veiga de Almeida (2010)  
 - 🌱 I’m currently learning Angular
