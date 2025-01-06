@@ -1,4 +1,5 @@
-<h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Luigi+C.+Filho;Solution+Architect;Digital+IC+Design)] <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="right"/> </h1>
+<h1 align="center"> Hi There!<img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="right"/> </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Luigi+C.+Filho;Solution+Architect;Digital+IC+Design)] 
 
 ![version :1](https://img.shields.io/badge/Version-1-blue) &nbsp;
 [![GitHub Luigicfilho](https://img.shields.io/github/followers/luigicfilho?label=follow&style=social)](https://github.com/luigicfilho)&nbsp;
