@@ -1,5 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I'm+Luigi+C.+Filho;Solution+Architect;Digital+IC+Designer" alt="Typing SVG" /> <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="right"/> </h1>
 
+<img alt="Static Badge" src="https://awesome.re/badge.svg"> &nbsp;
 ![version :1](https://img.shields.io/badge/Version-1-blue) &nbsp;
 [![GitHub Luigicfilho](https://img.shields.io/github/followers/luigicfilho?label=follow&style=social)](https://github.com/luigicfilho)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
@@ -101,3 +104,5 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/luigicfilho/count.svg" alt="Visitor's Count" />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
