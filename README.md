@@ -1,11 +1,11 @@
-<h1 align="center"> Hi there, I'm Luigi C. Filho <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="right"/> </h1>
+<h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Luigi+C.+Filho;Solution+Architect;Digital+IC+Design)] <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="right"/> </h1>
 
 ![version :1](https://img.shields.io/badge/Version-1-blue) &nbsp;
 [![GitHub Luigicfilho](https://img.shields.io/github/followers/luigicfilho?label=follow&style=social)](https://github.com/luigicfilho)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ---
-### <h2 align="center">👨🏻‍💻 &nbsp;About Me </h2>
+### <h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> &nbsp;About Me </h2>
 ---
 - <img width="16" src="https://cdn-icons-png.flaticon.com/128/13482/13482144.png" alt="Brazil" /> I'm from Brazil
 - 💡 I’m currently working on .Net Developement
@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on web developement
 - 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+- 📚 I’m currently learning ...
 - ⚡ Fun fact: Live long and prosper!
 
 ## 🛠️ Languages and Tools
@@ -92,6 +93,7 @@
 ---
 ### 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/luigicfilho/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 ---
+🔭 I’m currently working on ...
 ---
 
 <hr>
