@@ -123,10 +123,14 @@
 		</a> 
       </th>
       <th align="center">
-		<a href="https://github.com/sponsors/luigicfilho">
-
- <img align="center" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="50" width="210" alt="Sponsor on Github" /> 
-		</a> 
+	<a href="https://github.com/sponsors/luigicfilho">
+ 	<img align="center" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="50" width="210" alt="Sponsor on Github" /> 
+	</a> 
+      </th>
+	<th align="center">
+	<a href="https://patreon.com/luigicfilho">
+ 	<img align="center" src="https://img.shields.io/badge/patreon-donate-red.svg" height="50" width="210" alt="Sponsor on Github" /> 
+	</a> 
       </th>
       <th align="center">
         <a href="https://ko-fi.com/luigicfilho" target="_blank">
@@ -157,6 +161,8 @@
 </div>
 
 <!--
+https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dluigicfilho%26type%3Dpatrons&style=flat
+
 💡 Aspirations:
 
     Innovative Leader: I strive to excel in technology and business, with a focus on creating impactful solutions.
