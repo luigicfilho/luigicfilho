@@ -39,60 +39,46 @@
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 16px;">
     <div style="margin-bottom: 10px;">
       <b>👨🏻‍💻 Programming Languages:</b><br>
-		<br>
 		<p align="center">
 		  <img src="https://skillicons.dev/icons?i=cs,js,ts,py" />
 		</p>
-		<hr>
     </div>
     <div style="margin-bottom: 10px;">
       <b>☁️ Cloud:</b><br>
-		<br>
 		<p align="center">
 		  <img src="https://skillicons.dev/icons?i=azure,aws,heroku" />
 		</p>
-		<hr>
     </div>
     <div style="margin-bottom: 10px;">
       <b>☁️ Front-end:</b><br>
-		<br>
 		<p align="center">
 		  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap" />
 		</p>
-		<hr>
     </div>
     <div style="margin-bottom: 10px;">
       <b>☁️ Back-end:</b><br>
-		<br>
 		<p align="center">
 		  <img src="https://skillicons.dev/icons?i=php,nodejs,docker,cs,dotnet" />
 		</p>
-		<hr>
     </div>
 	<div style="margin-bottom: 10px;">
       <b>☁️ DataBases:</b><br>
-		<br>
 		<p align="center">
 		  <img src="https://skillicons.dev/icons?i=mongodb,postgres,elasticsearch,redis,sqlite,mysql" />
 		</p>
-		<hr>
     </div>
 	<div style="margin-bottom: 10px;">
       <b>☁️ SVNs:</b><br>
-		<br>
 		<p align="center">
 		  <img src="https://skillicons.dev/icons?i=git,github" />
 		</p>
-		<hr>
     </div>
 	<div style="margin-bottom: 10px;">
       <b>☁️ Other Skills:</b><br>
-		<br>
 		<p align="center">
 		  <img src="https://skillicons.dev/icons?i=nodejs,docker,raspberrypi,visualstudio,vscode,rabbitmq,arduino" />
 		  <img src="https://skillicons.dev/icons?i=kafka,matlab,nginx,opencv,postman,powershell,pytorch" />
 		</p>
-		<hr>
     </div>
   </div>
 </details>
