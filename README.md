@@ -16,6 +16,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ![version :1](https://img.shields.io/badge/Version-1-blue) &nbsp;
 [![GitHub Luigicfilho](https://img.shields.io/github/followers/luigicfilho?label=follow&style=social)](https://github.com/luigicfilho)&nbsp;
+ 👏🏻 💻 🌐⬇️⭐️
 - 👯 I’m looking to collaborate on web developement
 - 🔥 With an impressive following of 7k+ on [Linkedin](https://www.linkedin.com/in/luigicfilho), I post a lot of technology content, various technology-related projects, and ideas for integrating different technologies.
 -->
@@ -23,13 +24,17 @@
 ---
 ### <h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> &nbsp;About Me </h2>
 ---
--  <img width="16" src="https://cdn-icons-png.flaticon.com/128/13482/13482144.png" alt="Brazil" /> I'm from Brazil, living in Portugal <img width="16" src="https://cdn-icons-png.flaticon.com/128/14272/14272397.png" loading="lazy" alt="Portugal "> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
-- 💡 I’m currently working on .Net Developement
-- 🎓 &nbsp;I have a degree in Electronic Engineering on Universidade Veiga de Almeida 
-- 🌱 I’m currently learning Angular
+-  <img width="16" src="https://cdn-icons-png.flaticon.com/128/13482/13482144.png" alt="Brazil" /> I'm from <strong>Brazil</strong>, living in <strong>Portugal</strong> <img width="16" src="https://cdn-icons-png.flaticon.com/128/14272/14272397.png" loading="lazy" alt="Portugal "> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
+- 💡 I’m currently working on <strong>Consulting/Teaching .Net Developement</strong>
+- 🎓 &nbsp;I have a degree in <strong>Electronic Engineering</strong> on <strong>Universidade Veiga de Almeida</strong>
 - 👁️ Looking for <strong>open source/Web Development contribution</strong>
 - 💬 Feel free to reach out to me for general consulting, or discussions on any other topic!
 - 📚 I’m currently learning ...
+     - 🌱 Pytorch
+     - 🌱 Angular
+- 💡 Aspirations:
+     - Innovative Leader: I strive to excel in technology and business, with a focus on creating impactful solutions.
+     - Future Goals: Exploring exciting opportunities and advancements in the tech world while continuously developing my skills
 - ⚡ Fun fact: Live long and prosper!
 
 ## 🛠️ Languages and Tools
@@ -70,7 +75,7 @@
 	<div style="margin-bottom: 10px;">
       <b>☁️ SVNs:</b><br>
 		<p align="center">
-		  <img src="https://skillicons.dev/icons?i=git,github" />
+		  <img src="https://skillicons.dev/icons?i=svn,git,github" />
 		</p>
     </div>
 	<div style="margin-bottom: 10px;">
@@ -95,11 +100,15 @@
 </details>
  <!--### ✍️ Random Dev Quote -->
 
- <!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+ <!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+ ## 💰 You can help me by Donating
 
-## 💰 You can help me by Donating
+ -->
+ 
 
-<h2 align="center">Support Me</h2>
+
+
+<h2 align="center">💰 If you like my work, you can support me by buying me a coffee Thanks!</h2>
 <div align="center">
   <table align="center">
     <tr>
@@ -143,29 +152,25 @@
   
   [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fluigicfilho%2Fluigicfilho&label=Visitors&countColor=%232e34f2&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fluigicfilho%2Fluigicfilho)
   
-  <img src="https://profile-counter.glitch.me/luigicfilho/count.svg" alt="Visitor's Count" />
+
 </div>
 
 <!--
 https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dluigicfilho%26type%3Dpatrons&style=flat
 
-💡 Aspirations:
-
-    Innovative Leader: I strive to excel in technology and business, with a focus on creating impactful solutions.
-
-    Future Goals: Exploring exciting opportunities and advancements in the tech world while continuously developing my skil
+  <img src="https://profile-counter.glitch.me/luigicfilho/count.svg" alt="Visitor's Count" />
 🔭 Projects I'm Working On
 
-Support 👏🏻
-Dont forget to take a look on my projects and follow me for updates ⭐️
-💻 Tech Stack:
-🌐 Socials:
+Support
+Dont forget to take a look on my projects and follow me for updates 
+Tech Stack:
+ Socials:
 Thanks for visiting my profile. 
 
-💻 Check Out My Repos ⬇️ 
+💻 Check Out My Repos  
 
 ⭐️ From  | Let's innovate together!
-If you like my work, you can support me by buying me a coffee Thanks! 
+
 
 
 
