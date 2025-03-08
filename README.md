@@ -9,21 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=luigicfilho&style=social&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/luigicfilho?style=social" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/luigicfilho?style=social" alt="GitHub Stars"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/build-passing-success">
 </div>
-
-<!-- not used for now 
-![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :1](https://img.shields.io/badge/Version-1-blue) &nbsp;
-[![GitHub Luigicfilho](https://img.shields.io/github/followers/luigicfilho?label=follow&style=social)](https://github.com/luigicfilho)&nbsp;
- 👏🏻 💻 🌐⬇️⭐️
-- 👯 I’m looking to collaborate on web developement
-- 🔥 With an impressive following of 7k+ on [Linkedin](https://www.linkedin.com/in/luigicfilho), I post a lot of technology content, various technology-related projects, and ideas for integrating different technologies.
--->
 
 ---
 ### <h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> &nbsp;About Me </h2>
----
+
 -  <img width="16" src="https://cdn-icons-png.flaticon.com/128/13482/13482144.png" alt="Brazil" /> I'm from <strong>Brazil</strong>, living in <strong>Portugal</strong> <img width="16" src="https://cdn-icons-png.flaticon.com/128/14272/14272397.png" loading="lazy" alt="Portugal "> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
 - 💡 I’m currently working on <strong>Consulting/Teaching .Net Developement</strong>
 - 🎓 &nbsp;I have a degree in <strong>Electronic Engineering</strong> on <strong>Universidade Veiga de Almeida</strong>
@@ -37,6 +27,7 @@
      - Future Goals: Exploring exciting opportunities and advancements in the tech world while continuously developing my skills
 - ⚡ Fun fact: Live long and prosper!
 
+---
 ## 🛠️ Languages and Tools
 
 <details>
@@ -90,23 +81,18 @@
 
 ---
 ### 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/luigicfilho/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
----
-🔭 I’m currently working on ...
----
 
-<details>
+### 🔭 I’m currently working on ...
+- Portifolio
+- C# Course
+- Python Course
+
+---
+<details open>
 <summary><strong>✍️ Random Dev Quote</strong></summary>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </details>
- <!--### ✍️ Random Dev Quote -->
-
- <!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
- ## 💰 You can help me by Donating
-
- -->
  
-
-
 
 <h2 align="center">💰 If you like my work, you can support me by buying me a coffee Thanks!</h2>
 <div align="center">
@@ -152,128 +138,12 @@
   
   [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fluigicfilho%2Fluigicfilho&label=Visitors&countColor=%232e34f2&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fluigicfilho%2Fluigicfilho)
   
-
 </div>
 
-<!--
-https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dluigicfilho%26type%3Dpatrons&style=flat
-
-  <img src="https://profile-counter.glitch.me/luigicfilho/count.svg" alt="Visitor's Count" />
-🔭 Projects I'm Working On
-
-Support
-Dont forget to take a look on my projects and follow me for updates 
-Tech Stack:
- Socials:
-Thanks for visiting my profile. 
-
-💻 Check Out My Repos  
-
-⭐️ From  | Let's innovate together!
-
-
-
-
-    💼 FrontEnd Engineer at Razorpay
-
-    📈 Built github-readme-stats, verlyjs and more, 50m+ hits • 50K stars on GitHub
-
-    ❤️ I love writing TypeScript, and building fun experiments on type-level
-
-    💬 Ask me about anything here
-Studying
-
-My mission
-I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
-
-
-Meet the Maker (of this Repo)
-
-I'm Luigi, a enthusiastic advocate of the STEAM 💨:
-🔬 Science • 💡 Technology • 🏗 Engineering • 🎨 Art • 📈 Math 
-
-<h3 align="center">A Passionate Java Full Stack/Web developer | Software Engineer Enthusiast</h3>
-    💼   Currently working on insurance products.
-    💼   Worked on e-commerce, IVR, and WebRtc products.
-    💼   Contributing to NPM Package hexure UI and more open source projects.
-    🔭   I’m currently Advancing React(Ts), Next.js, React Native for Development and Elastic Stack, Mongodb for Database Management
-    🤔   Exploring new technologies and developing software solutions and quick hacks.
-    🎓   Studying Computer Science, Programming, and Mathematics.
-    💼   full-stack Engineer and hands-on experience in Data Science and Networking.
-    🌱   Enthusiast in full-Stack and Artificial Intelligence.
-    ✍️   Watching universe and trying out the latest design trends as hobbies/side hustles.
-    😴   I believe, a perfect nap can be the ultimate solution for stress.
-
-
-👋 I'm Luigi, an Open Source Developer from Brazil, who is super into Open Source stuff, Data Science, AI/ML and Developing & Contributing to different Open Source Projects and Organizations.
-
-🔥 I have collaborated and conntributed to many projects in Open Source communities for over 3 years.
-
-✍ Also I write blogs on Dev.to and Medium about my experiences and learnings in the field of Data Science, AI/ML, Open Source and Web Development.
-
-📈   I am currently building my discord community for open source developers and Beginners in Open Source at Akatsuki Discord.
-
-🔖   Also contributing to DEV & Quira challenges and got my PRs merged.
-
-🚀   
-
-🎓   
-
-🎁   I daily share my day to day updates and updates that can also help others on Twitter and LinkedIn.
-
-🏆   
-
-🎯   Building & Shipping Products with open source.
-
-😄   Besides that, I make side projects, brainstorm ideas, and keep learning new stuff.
-
-
-📚 Latest Blog Posts
-
-🛠 Tech Stack
-
-    💻   Python | JavaScript | React.js | Typescript | Next.js | C++ | MERN
-    🌐   Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind
-    🛢   MySQL | Firebase | Postman
-    🔧   Google Collab | Jupyter | Visual Studio code | Git
-    🖥   Adobe Xd | Illustrator | Photoshop | Figma
-
-Software developer | Full-stack JavaScript | Node/React developer | Web developer
-
-📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.
-
-Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
-
-🌱 Currently Working On: Visual Sort
-💬 Ask Me About: JAVA, SQL, Web Development, Anime, Designing, or anything.
-📫 Reach Me At:
-⚡ About Me: A  with a touch of intelligence.
-💎 Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty
-🌎 I Know English
-📍 Location: 
-
-🧐 Knowledge of:
-
-🌍 Deployment platforms:
-
-🚩 Highlights:
-
-📚 Working on:
-Show some ❤️ by starring some of the repositories!.
-📝 Curated Articles
-
-👨🏻‍💻 About Me ✨ Data Engineer | Prev.
-⚡ Check my ✨ Website or 🌱 eBook
-📫 How to reach me: Schedule Call or Join Newsletter
-👯 Join my opensource communityrecodehive
-💬 Ask me about SEO/Data Science.
-
-🤓 Interested:
-
+<!-- ICONS
+🔭 💻 ⭐️💼📈 💨🔬💡🏗 🎨 📈🤔😴 
+👋🔥✍📈🔖 🚀 🎓🎁 🏆 🎯 😄 🛠💻 🌐🛢🔧🖥⚡ 💎 🌎 📍 🧐🌍 🚩 📚 ❤️📝 👨🏻‍💻⚡ ✨ 🌱 📫 👯 💬 🤓
 -->
-
-
-
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Footer ---------------------------------------------------------------------------------------------------------------------------- -->
