@@ -85,7 +85,9 @@
 ### 🔭 I’m currently working on ...
 - Portifolio
 - C# Course
+    - [C# Book (in PT)](https://luigicfilho.gitbook.io/dotnet)
 - Python Course
+    - [Python Book (in PT)](https://luigicfilho.gitbook.io/desvendando-python)
 
 ---
 <details open>
