@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/github/stars/luigicfilho?style=social" alt="GitHub Stars"/>
 </div>
 
----
 ### <h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> &nbsp;About Me </h2>
 
 -  <img width="16" src="https://cdn-icons-png.flaticon.com/128/13482/13482144.png" alt="Brazil" /><img width="16" src="https://cdn-icons-png.flaticon.com/512/299/299935.png" alt="Italy" /> I'm from <strong>Brazil</strong>, living in <strong>Portugal</strong> <img width="16" src="https://cdn-icons-png.flaticon.com/128/14272/14272397.png" loading="lazy" alt="Portugal "> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
@@ -26,11 +25,8 @@
      - Future Goals: Exploring exciting opportunities and advancements in the tech world while continuously developing my skills
 - ⚡ Fun fact: Live long and prosper!
 
----
-## 🛠️ Languages and Tools
-
 <details>
-  <summary><b>🛠 &nbsp;Tech Stack</b></summary><br>
+  <summary><h2><b> 🛠 &nbsp;Tech Stack</b></h2></summary><br>
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 16px;">
     <div style="margin-bottom: 10px;">
       <b>👨🏻‍💻 Programming Languages:</b><br>
@@ -78,7 +74,6 @@
   </div>
 </details>
 
----
 ### 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/luigicfilho/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 
 ### 🔭 I’m currently working on ...
@@ -88,12 +83,13 @@
 - Python Course
     - [Python Book (in PT)](https://luigicfilho.gitbook.io/desvendando-python)
 
----
 <details open>
 <summary><strong>✍️ Random Dev Quote</strong></summary>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+	<br>
 </details>
- 
+
+<br>
 
 <h2 align="center">💰 If you like my work, you can support me by buying me a coffee Thanks!</h2>
 <div align="center">
@@ -123,17 +119,10 @@
   </table>
 </div>
 
-
-  <!-- 
-[![Sponser Me](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#black)](https://github.com/sponsors/luigicfilho) <br/>
-  </div> 
-  
--->
-
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitors ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<hr>
+
 <div align="center"> 
   <p>Visitor count</p>
   
