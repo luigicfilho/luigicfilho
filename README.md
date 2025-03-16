@@ -14,7 +14,7 @@
 ---
 ### <h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> &nbsp;About Me </h2>
 
--  <img width="16" src="https://cdn-icons-png.flaticon.com/128/13482/13482144.png" alt="Brazil" /> I'm from <strong>Brazil</strong>, living in <strong>Portugal</strong> <img width="16" src="https://cdn-icons-png.flaticon.com/128/14272/14272397.png" loading="lazy" alt="Portugal "> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
+-  <img width="16" src="https://cdn-icons-png.flaticon.com/128/13482/13482144.png" alt="Brazil" /><img width="16" src="https://cdn-icons-png.flaticon.com/512/321/321240.png" alt="Italy" /> I'm from <strong>Brazil</strong>, living in <strong>Portugal</strong> <img width="16" src="https://cdn-icons-png.flaticon.com/128/14272/14272397.png" loading="lazy" alt="Portugal "> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
 - 💡 I’m currently working on <strong>Consulting/Teaching .Net Developement</strong>
 - 🎓 &nbsp;I have a degree in <strong>Electronic Engineering</strong> on <strong>Universidade Veiga de Almeida</strong>
 - 👁️ Looking for <strong>open source/Web Development contribution</strong>
