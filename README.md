@@ -81,12 +81,29 @@
 - C# Course
     - [C# Book (in PT)](https://luigicfilho.gitbook.io/dotnet)
 - Python Course
-    - [Python Book (in PT)](https://luigicfilho.gitbook.io/desvendando-python)
+
 
 <details open>
-<summary><strong>✍️ Random Dev Quote</strong></summary>
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-	<br>
+<summary><strong>✍️ Meus Trabalhos:</strong></summary>
+<table >
+	<thead>
+		<tr>
+			<th colspan="2">
+				<em> Trabalhos: </em>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td>
+			<div> Python Book (in PT)  </div>
+		</td>
+		<td>
+			<a href="https://luigicfilho.gitbook.io/desvendando-python">Desvendando o Python</a>
+		</td>
+	</tr>
+	</tbody>
+</table>
 </details>
 
 <br>
