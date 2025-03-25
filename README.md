@@ -102,6 +102,14 @@
 			<a href="https://luigicfilho.gitbook.io/desvendando-python">Desvendando o Python</a>
 		</td>
 	</tr>
+		<tr>
+			<td>
+				<div>Queue Managment - SuaVez </div>
+			</td>
+			<td>
+				<a href="https://github.com/luigicfilho/SuaVez"> Sua Vez</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 </details>
