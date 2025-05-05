@@ -78,6 +78,9 @@
 
 ### 🔭 I’m currently working on ...
 - Portifolio
+	- LC.DotNetGenesis (dotnet new templates)
+ 	- LC.ApiKey (Implementation of APIKey Authorization for WebApis)
+  	- LC.AuthGuard (Authentication and Authorization Management System)
 - C# Course
     - [C# Book (in PT)](https://luigicfilho.gitbook.io/dotnet)
 - Python Course
