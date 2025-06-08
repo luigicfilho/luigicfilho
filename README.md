@@ -79,7 +79,6 @@
 ### 🔭 I’m currently working on ...
 - Portifolio
 	- LC.DotNetGenesis (dotnet new templates)
- 	- LC.ApiKey (Implementation of APIKey Authorization for WebApis)
   	- LC.AuthGuard (Authentication and Authorization Management System)
 - C# Course
     - [C# Book (in PT)](https://luigicfilho.gitbook.io/dotnet)
@@ -112,6 +111,22 @@
 			<td>
 				<a href="https://github.com/luigicfilho/SuaVez"> Sua Vez</a>
 			</td>
+		</tr>
+		<tr>
+			<td>
+				<div>APIKey Authorization for WebApis - LC.ApiKey </div>
+			</td>
+			<td>
+				<a href="https://github.com/luigi-sw/LC.ApiKey"> LC.ApiKey </a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+        			<div>Result pattern Implementation - LC.Results </div>
+      			</td>
+			<td>
+        			<a href="https://github.com/luigi-sw/LC.Results"> LC.Results </a>
+      			</td>
 		</tr>
 	</tbody>
 </table>
