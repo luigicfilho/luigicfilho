@@ -81,7 +81,6 @@
 	- LC.DotNetGenesis (dotnet new templates)
   	- LC.AuthGuard (Authentication and Authorization Management System)
 - C# Course
-    - [C# Book (in PT)](https://luigicfilho.gitbook.io/dotnet)
 - Python Course
 
 
@@ -102,6 +101,15 @@
 		</td>
 		<td>
 			<a href="https://luigicfilho.gitbook.io/desvendando-python">Desvendando o Python</a>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			<div> C# Book (in PT)  </div>
+		</td>
+		<td>
+			[C# Book (in PT)]()
+			<a href="https://luigicfilho.gitbook.io/dotnet">Desenvolvimento .NET</a>
 		</td>
 	</tr>
 		<tr>
