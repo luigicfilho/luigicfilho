@@ -108,7 +108,6 @@
 			<div> C# Book (in PT)  </div>
 		</td>
 		<td>
-			[C# Book (in PT)]()
 			<a href="https://luigicfilho.gitbook.io/dotnet">Desenvolvimento .NET</a>
 		</td>
 	</tr>
