@@ -82,16 +82,16 @@
   	- LC.AuthGuard (Authentication and Authorization Management System)
 - C# Course
 - Python Course
-- Git Descomplicado - E-book (em progresso)
+- Git Descomplicado - E-book
 
 
 <details open>
-<summary><strong>✍️ Meus Trabalhos:</strong></summary>
+<summary><strong>✍️ My works:</strong></summary>
 <table >
 	<thead>
 		<tr>
 			<th colspan="2">
-				<em> Trabalhos: </em>
+				<em> Works: </em>
 			</th>
 		</tr>
 	</thead>
