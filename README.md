@@ -82,6 +82,7 @@
   	- LC.AuthGuard (Authentication and Authorization Management System)
 - C# Course
 - Python Course
+- Git Descomplicado - E-book (em progresso)
 
 
 <details open>
@@ -133,6 +134,9 @@
       			</td>
 			<td>
         			<a href="https://github.com/luigi-sw/LC.Results"> LC.Results </a>
+				<a href="https://www.nuget.org/packages/LCSoft.Results/">
+					<img src="https://img.shields.io/nuget/v/LCSoft.Results.svg" alt="NuGet Version" />
+				</a>
       			</td>
 		</tr>
 	</tbody>
