@@ -126,6 +126,9 @@
 			</td>
 			<td>
 				<a href="https://github.com/luigi-sw/LC.ApiKey"> LC.ApiKey </a>
+				<a href="https://www.nuget.org/packages/LCSoft.ApiKey/">
+					<img src="https://img.shields.io/nuget/v/LCSoft.ApiKey.svg" alt="NuGet Version" />
+				</a>
 			</td>
 		</tr>
 		<tr>
