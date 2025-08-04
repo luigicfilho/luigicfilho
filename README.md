@@ -24,7 +24,7 @@
      - Innovative Leader: I strive to excel in technology and business, with a focus on creating impactful solutions.
      - Future Goals: Exploring exciting opportunities and advancements in the tech world while continuously developing my skills
 - ⚡ Fun fact: Live long and prosper!
-- ⚠️ Fun fact: I you follow me, I'll follow you, if you stop following me, I'll stop following you, I'm thinking to let this automated, don't try to be a smart ass.
+- ⚠️ Fun fact: If you follow me, I'll follow you, if you stop following me, I'll stop following you, I'm thinking to let this automated, don't try this trick please.
 
 <details>
   <summary><h2><b> 🛠 &nbsp;Tech Stack</b></h2></summary><br>
