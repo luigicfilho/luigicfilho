@@ -143,6 +143,17 @@
 				</a>
       			</td>
 		</tr>
+		<tr>
+			<td>
+        			<div>Python Version/Environment Manager - Pyxenv </div>
+      			</td>
+			<td>
+        			<a href="https://github.com/luigi-sw/LCSoft.Pyxenv"> LC.Results </a>
+				<a href="https://pypi.org/project/pyxenv/">
+					<img src="https://img.shields.io/pypi/v/pyxenv.svg" alt="Pypi Version" />
+				</a>
+      			</td>
+		</tr>
 	</tbody>
 </table>
 </details>
