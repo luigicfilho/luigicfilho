@@ -126,7 +126,7 @@
 				<div>APIKey Authorization for WebApis - LC.ApiKey </div>
 			</td>
 			<td>
-				<a href="https://github.com/luigi-sw/LC.ApiKey"> LC.ApiKey </a>
+				<a href="https://github.com/luigi-sw/LCSoft.ApiKey"> LCSoft.ApiKey </a>
 				<a href="https://www.nuget.org/packages/LCSoft.ApiKey/">
 					<img src="https://img.shields.io/nuget/v/LCSoft.ApiKey.svg" alt="NuGet Version" />
 				</a>
@@ -134,10 +134,10 @@
 		</tr>
 		<tr>
 			<td>
-        			<div>Result pattern Implementation - LC.Results </div>
+        			<div>Result pattern Implementation - LCSoft.Results </div>
       			</td>
 			<td>
-        			<a href="https://github.com/luigi-sw/LC.Results"> LC.Results </a>
+        			<a href="https://github.com/luigi-sw/LCSoft.Results"> LCSoft.Results </a>
 				<a href="https://www.nuget.org/packages/LCSoft.Results/">
 					<img src="https://img.shields.io/nuget/v/LCSoft.Results.svg" alt="NuGet Version" />
 				</a>
@@ -148,7 +148,7 @@
         			<div>Python Version/Environment Manager - Pyxenv </div>
       			</td>
 			<td>
-        			<a href="https://github.com/luigi-sw/LCSoft.Pyxenv"> LC.Results </a>
+        			<a href="https://github.com/luigi-sw/LCSoft.Pyxenv"> LCSoft.Pyxenv </a>
 				<a href="https://pypi.org/project/pyxenv/">
 					<img src="https://img.shields.io/pypi/v/pyxenv.svg" alt="Pypi Version" />
 				</a>
