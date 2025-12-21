@@ -14,23 +14,23 @@
 ### <h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> &nbsp;About Me </h2>
 
 -  <img width="16" src="https://cdn-icons-png.flaticon.com/128/13482/13482144.png" alt="Brazil" /><img width="16" src="https://cdn-icons-png.flaticon.com/512/299/299935.png" alt="Italy" /> I'm from <strong>Brazil</strong>, living in <strong>Brazil</strong> <img width="16" src="https://cdn-icons-png.flaticon.com/128/13482/13482144.png" loading="lazy" alt="Portugal "> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
-- 💡 I’m currently working on <strong>Consulting/Teaching .Net Developement</strong>
-- 🎓 &nbsp;I have a degree in <strong>Electronic Engineering</strong> on <strong>Universidade Veiga de Almeida</strong>
-- 👁️ Looking for <strong>open source/Web Development contribution</strong>
-- 💬 Feel free to reach out to me for general consulting, or discussions on any other topic!
-- 📚 I’m currently learning ...
-     - 🌱 Pytorch
-- 💡 Aspirations:
+- I’m currently working on <strong>Consulting/Teaching .Net Developement</strong>
+- &nbsp;I have a degree in <strong>Electronic Engineering</strong> on <strong>Universidade Veiga de Almeida</strong>
+- Looking for <strong>open source/Web Development contribution</strong>
+- Feel free to reach out to me for general consulting, or discussions on any other topic!
+- I’m currently learning ...
+     - Pytorch
+- Aspirations:
      - Innovative Leader: I strive to excel in technology and business, with a focus on creating impactful solutions.
      - Future Goals: Exploring exciting opportunities and advancements in the tech world while continuously developing my skills
-- ⚡ Fun fact: Live long and prosper!
-- ⚠️ Fun fact: If you follow me, I'll follow you, if you stop following me, I'll stop following you, This is automated, don't try this trick please.
+- Fun fact: Live long and prosper!
+- Fun fact: If you follow me, I'll follow you, if you stop following me, I'll stop following you, This is automated, don't try this trick please.
 
 <details>
   <summary><h2><b> 🛠 &nbsp;Tech Stack</b></h2></summary><br>
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 16px;">
     <div style="margin-bottom: 10px;">
-      <b>👨🏻‍💻 Programming Languages:</b><br>
+      <b>Programming Languages:</b><br>
 		<p align="center">
 		  <img src="https://skillicons.dev/icons?i=cs,js,ts,py" />
 		</p>
@@ -42,7 +42,7 @@
 		</p>
     </div>
     <div style="margin-bottom: 10px;">
-      <b>☁️ Front-end:</b><br>
+      <b> Front-end:</b><br>
 		<p align="center">
 		  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap" />
 		</p>
@@ -54,19 +54,19 @@
 		</p>
     </div>
 	<div style="margin-bottom: 10px;">
-      <b>☁️ DataBases:</b><br>
+      <b> DataBases:</b><br>
 		<p align="center">
 		  <img src="https://skillicons.dev/icons?i=mongodb,postgres,elasticsearch,redis,sqlite,mysql" />
 		</p>
     </div>
 	<div style="margin-bottom: 10px;">
-      <b>☁️ SVNs:</b><br>
+      <b> SVNs:</b><br>
 		<p align="center">
 		  <img src="https://skillicons.dev/icons?i=svn,git,github" />
 		</p>
     </div>
 	<div style="margin-bottom: 10px;">
-      <b>☁️ Other Skills:</b><br>
+      <b> Other Skills:</b><br>
 		<p align="center">
 		  <img src="https://skillicons.dev/icons?i=nodejs,docker,raspberrypi,visualstudio,vscode,rabbitmq,arduino" />
 		  <img src="https://skillicons.dev/icons?i=kafka,matlab,nginx,opencv,postman,powershell,pytorch" />
@@ -77,7 +77,7 @@
 
 ### 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/luigicfilho/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 
-### 🔭 I’m currently working on ...
+###  I’m currently working on ...
 - Portifolio
 	- LC.DotNetGenesis (dotnet new templates)
   	- LC.AuthGuard (Authentication and Authorization Management System)
@@ -87,7 +87,7 @@
 
 
 <details open>
-<summary><strong>✍️ My works:</strong></summary>
+<summary><strong> My works:</strong></summary>
 <table >
 	<thead>
 		<tr>
@@ -160,7 +160,7 @@
 
 <br>
 
-<h2 align="center">💰 If you like my work, you can support me by buying me a coffee Thanks!</h2>
+<h2 align="center"> If you like my work, you can support me by buying me a coffee Thanks!</h2>
 <div align="center">
   <table align="center">
     <tr>
