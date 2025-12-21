@@ -14,8 +14,8 @@
 ### <h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> &nbsp;About Me </h2>
 
 -  <img width="16" src="https://cdn-icons-png.flaticon.com/128/13482/13482144.png" alt="Brazil" /><img width="16" src="https://cdn-icons-png.flaticon.com/512/299/299935.png" alt="Italy" /> I'm from <strong>Brazil</strong>, living in <strong>Brazil</strong> <img width="16" src="https://cdn-icons-png.flaticon.com/128/13482/13482144.png" loading="lazy" alt="Portugal "> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
+- Open to senior backend roles / freelance consulting
 - I’m currently working on <strong>Consulting/Teaching .Net Developement</strong>
-- My goal is to work with .NET Consulting
 - I have a degree in <strong>Electronic Engineering</strong> on <strong>Universidade Veiga de Almeida</strong>
 - Looking for <strong>open source/Web Development contribution</strong>
 - Feel free to reach out to me for general consulting, or discussions on any other topic!
@@ -106,7 +106,7 @@
 		<td>
 			<a href="https://luigicfilho.gitbook.io/desvendando-python">Desvendando o Python</a>
 		</td>
-		<td></td>
+		<td>Published Python Book in GitBook with 35+ views/month.</td>
 		<td></td>
 	</tr>
 		<tr>
@@ -116,7 +116,7 @@
 		<td>
 			<a href="https://luigicfilho.gitbook.io/dotnet">Desenvolvimento .NET</a>
 		</td>
-		<td></td>
+		<td>Published Python Book in GitBook with 20+ views/month.</td>
 		<td></td>
 	</tr>
 		<tr>
