@@ -93,7 +93,7 @@
 <table >
 	<thead>
 		<tr>
-			<th colspan="2">
+			<th colspan="4">
 				<em> Works: </em>
 			</th>
 		</tr>
@@ -107,6 +107,7 @@
 			<a href="https://luigicfilho.gitbook.io/desvendando-python">Desvendando o Python</a>
 		</td>
 		<td></td>
+		<td></td>
 	</tr>
 		<tr>
 		<td>
@@ -115,6 +116,7 @@
 		<td>
 			<a href="https://luigicfilho.gitbook.io/dotnet">Desenvolvimento .NET</a>
 		</td>
+		<td></td>
 		<td></td>
 	</tr>
 		<tr>
