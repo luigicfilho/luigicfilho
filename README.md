@@ -106,6 +106,7 @@
 		<td>
 			<a href="https://luigicfilho.gitbook.io/desvendando-python">Desvendando o Python</a>
 		</td>
+		<td></td>
 	</tr>
 		<tr>
 		<td>
@@ -114,6 +115,7 @@
 		<td>
 			<a href="https://luigicfilho.gitbook.io/dotnet">Desenvolvimento .NET</a>
 		</td>
+		<td></td>
 	</tr>
 		<tr>
 			<td>
@@ -122,6 +124,8 @@
 			<td>
 				<a href="https://github.com/luigicfilho/SuaVez"> Sua Vez</a>
 			</td>
+			<td>Architecture: 4-Layer Monolith, Anemic Domain</td>
+			<td>Queue management system used by 2 customers</td>
 		</tr>
 		<tr>
 			<td>
@@ -133,6 +137,8 @@
 					<img src="https://img.shields.io/nuget/v/LCSoft.ApiKey.svg" alt="NuGet Version" />
 				</a>
 			</td>
+			<td>Architecture: Clean Architecture, Nuget Package, Library</td>
+			<td>Package responsible for accelerating the implementation of API-Key management</td>
 		</tr>
 		<tr>
 			<td>
@@ -143,7 +149,9 @@
 				<a href="https://www.nuget.org/packages/LCSoft.Results/">
 					<img src="https://img.shields.io/nuget/v/LCSoft.Results.svg" alt="NuGet Version" />
 				</a>
-      			</td>
+      		</td>
+			<td>Architecture: Clean Architecture, Nuget Package, Library</td>
+			<td>Package responsible for implement the Result Pattern</td>
 		</tr>
 		<tr>
 			<td>
@@ -154,7 +162,9 @@
 				<a href="https://pypi.org/project/pyxenv/">
 					<img src="https://img.shields.io/pypi/v/pyxenv.svg" alt="Pypi Version" />
 				</a>
-      			</td>
+      		</td>
+			<td>Architecture: Clean Architecture, Pypi Package, Library</td>
+			<td>Package responsible for Manage Python Versions and Python Virtual Environments</td>
 		</tr>
 	</tbody>
 </table>
