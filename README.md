@@ -45,7 +45,7 @@
     <div style="margin-bottom: 10px;">
       <b> Front-end:</b><br>
 		<p align="center">
-		  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap" />
+		  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap" />
 		</p>
     </div>
     <div style="margin-bottom: 10px;">
@@ -69,7 +69,7 @@
 	<div style="margin-bottom: 10px;">
       <b> Other Skills:</b><br>
 		<p align="center">
-		  <img src="https://skillicons.dev/icons?i=nodejs,docker,raspberrypi,visualstudio,vscode,rabbitmq,arduino" />
+		  <img src="https://skillicons.dev/icons?i=raspberrypi,visualstudio,vscode,rabbitmq,arduino" />
 		  <img src="https://skillicons.dev/icons?i=kafka,matlab,nginx,opencv,postman,powershell,pytorch" />
 		</p>
     </div>
