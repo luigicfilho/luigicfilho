@@ -15,7 +15,8 @@
 
 -  <img width="16" src="https://cdn-icons-png.flaticon.com/128/13482/13482144.png" alt="Brazil" /><img width="16" src="https://cdn-icons-png.flaticon.com/512/299/299935.png" alt="Italy" /> I'm from <strong>Brazil</strong>, living in <strong>Brazil</strong> <img width="16" src="https://cdn-icons-png.flaticon.com/128/13482/13482144.png" loading="lazy" alt="Portugal "> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
 - I’m currently working on <strong>Consulting/Teaching .Net Developement</strong>
-- &nbsp;I have a degree in <strong>Electronic Engineering</strong> on <strong>Universidade Veiga de Almeida</strong>
+- My goal is to work with .NET Consulting
+- I have a degree in <strong>Electronic Engineering</strong> on <strong>Universidade Veiga de Almeida</strong>
 - Looking for <strong>open source/Web Development contribution</strong>
 - Feel free to reach out to me for general consulting, or discussions on any other topic!
 - I’m currently learning ...
@@ -27,7 +28,7 @@
 - Fun fact: If you follow me, I'll follow you, if you stop following me, I'll stop following you, This is automated, don't try this trick please.
 
 <details>
-  <summary><h2><b> 🛠 &nbsp;Tech Stack</b></h2></summary><br>
+  <summary><h2><b> &nbsp;Tech Stack</b></h2></summary><br>
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 16px;">
     <div style="margin-bottom: 10px;">
       <b>Programming Languages:</b><br>
@@ -36,7 +37,7 @@
 		</p>
     </div>
     <div style="margin-bottom: 10px;">
-      <b>☁️ Cloud:</b><br>
+      <b> Cloud:</b><br>
 		<p align="center">
 		  <img src="https://skillicons.dev/icons?i=azure,aws,heroku" />
 		</p>
@@ -48,7 +49,7 @@
 		</p>
     </div>
     <div style="margin-bottom: 10px;">
-      <b>☁️ Back-end:</b><br>
+      <b> Back-end:</b><br>
 		<p align="center">
 		  <img src="https://skillicons.dev/icons?i=php,nodejs,docker,cs,dotnet" />
 		</p>
