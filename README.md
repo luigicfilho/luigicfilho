@@ -33,7 +33,7 @@
     <div style="margin-bottom: 10px;">
       <b>Programming Languages:</b><br>
 		<p align="center">
-		  <img src="https://skillicons.dev/icons?i=cs,js,ts,py" />
+		  <img src="https://skillicons.dev/icons?i=cs,js,ts,py,rust" />
 		</p>
     </div>
     <div style="margin-bottom: 10px;">
