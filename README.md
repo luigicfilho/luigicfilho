@@ -21,6 +21,7 @@
 - Feel free to reach out to me for general consulting, or discussions on any other topic!
 - I’m currently learning ...
      - Pytorch
+     - Rust
 - Aspirations:
      - Innovative Leader: I strive to excel in technology and business, with a focus on creating impactful solutions.
      - Future Goals: Exploring exciting opportunities and advancements in the tech world while continuously developing my skills
