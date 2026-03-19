@@ -101,6 +101,18 @@
 	<tbody>
 	<tr>
 		<td>
+			<div> Software Architecture (in PT) </div>
+		</td>
+		<td>
+			<a href="https://luigicfilho.gitbook.io/arquitetura-de-software">Arquitetura de Software</a>
+		</td>
+		<td>
+			Published Software Architecture in GitBook with 255+ views/month.
+		</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>
 			<div> Python Book (in PT)  </div>
 		</td>
 		<td>
@@ -212,11 +224,6 @@
   [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fluigicfilho%2Fluigicfilho&label=Visitors&countColor=%232e34f2&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fluigicfilho%2Fluigicfilho)
   
 </div>
-
-<!-- ICONS
-🔭 💻 ⭐️💼📈 💨🔬💡🏗 🎨 📈🤔😴 
-👋🔥✍📈🔖 🚀 🎓🎁 🏆 🎯 😄 🛠💻 🌐🛢🔧🖥⚡ 💎 🌎 📍 🧐🌍 🚩 📚 ❤️📝 👨🏻‍💻⚡ ✨ 🌱 📫 👯 💬 🤓
--->
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Footer ---------------------------------------------------------------------------------------------------------------------------- -->
