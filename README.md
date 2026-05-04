@@ -192,22 +192,22 @@
     <tr>
       <th align="center">
         <a href="https://buymeacoffee.com/luigicfilho">
-			<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy me a coffee" />
+			<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="25" width="105" alt="Buy me a coffee" />
 		</a> 
       </th>
       <th align="center">
 	<a href="https://github.com/sponsors/luigicfilho">
- 	<img align="center" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="50" width="210" alt="Sponsor on Github" /> 
+ 	<img align="center" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="25" width="105" alt="Sponsor on Github" /> 
 	</a> 
       </th>
 	<th align="center">
 	<a href="https://patreon.com/luigicfilho">
- 	<img align="center" src="https://img.shields.io/badge/patreon-donate-red.svg" height="50" width="210" alt="Sponsor on Github" /> 
+ 	<img align="center" src="https://img.shields.io/badge/patreon-donate-red.svg" height="25" width="105" alt="Sponsor on Github" /> 
 	</a> 
       </th>
       <th align="center">
         <a href="https://ko-fi.com/luigicfilho" target="_blank">
-          <img height="50" width="210" src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+          <img height="25" width="105" src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
         </a>
       </th>
     </tr>
