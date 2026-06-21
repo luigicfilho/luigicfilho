@@ -20,7 +20,6 @@
 - Looking for <strong>open source/Web Development contribution</strong>
 - Feel free to reach out to me for general consulting, or discussions on any other topic!
 - I’m currently learning ...
-     - Pytorch
      - Rust
 - Aspirations:
      - Innovative Leader: I strive to excel in technology and business, with a focus on creating impactful solutions.
