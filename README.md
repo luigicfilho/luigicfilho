@@ -85,7 +85,6 @@
   	- LC.AuthGuard (Authentication and Authorization Management System)
 - C# Course
 - Python Course
-- Git Descomplicado - E-book
 
 
 <details open>
